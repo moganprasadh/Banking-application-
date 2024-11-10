@@ -1,0 +1,3 @@
+2024-11-09 14:28:51 | Deposit, Account ID: 2|Amount|Amount:30.00
+2024-11-09 15:18:36 | Deposit, Account ID: 2|Amount|Amount:123.00
+2024-11-09 15:31:41 | Withdrawal, Account ID: 2|Amount|Amount:124.00
